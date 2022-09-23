@@ -1,6 +1,6 @@
 # jquery-example
 
-Пример реализации jquery событий на основе MutationObserver и ResizeObserver.
+Пример добавления к jQuery событий на основе MutationObserver и ResizeObserver.
 В пример не входят зависимости (код нерабочий, только код плагина событий).
 
 Добавлены следующие события
