@@ -17,4 +17,4 @@ https://youtu.be/IADtV_1j7BE
  - `resize:trigger` - предыдущее событие + выполняет обработчик при привязке 
  - `resize:width` - у элемента изменилась ширина
  - `resize:height` - у элемента изменилась высота
- - `attr:[attribute1]:[attribute2]...` - изменение аттрибутов элемента
+ - `attr:[attribute1]:[attribute2]...` - у элемента изменился аттрибут из списка
